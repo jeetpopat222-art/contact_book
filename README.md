@@ -126,6 +126,9 @@ Simple. Clean. Deadly.
 > This project was built from scratch by someone who just learned File I/O in Python.  
 > No tutorials. No copy paste. Just pure grind and debugging.  
 > Every bug was a lesson. Every fix was a victory. 💪
+> I learnet so much while making this project
+> yes,i have used Ai/google but i have not seen full solution
+> i have taken hint when im stuck, i have tried my best to learn most from this project
 
 ---
 
